@@ -1,0 +1,7 @@
+D:\NET 1.0.1\bài tập lab\Assignment\Bai tap lab MU 19302\Lab 1\Lab 1\bin\Debug\Lab 1.exe.config
+D:\NET 1.0.1\bài tập lab\Assignment\Bai tap lab MU 19302\Lab 1\Lab 1\bin\Debug\Lab 1.exe
+D:\NET 1.0.1\bài tập lab\Assignment\Bai tap lab MU 19302\Lab 1\Lab 1\bin\Debug\Lab 1.pdb
+D:\NET 1.0.1\bài tập lab\Assignment\Bai tap lab MU 19302\Lab 1\Lab 1\obj\Debug\Lab 1.csproj.AssemblyReference.cache
+D:\NET 1.0.1\bài tập lab\Assignment\Bai tap lab MU 19302\Lab 1\Lab 1\obj\Debug\Lab 1.csproj.CoreCompileInputs.cache
+D:\NET 1.0.1\bài tập lab\Assignment\Bai tap lab MU 19302\Lab 1\Lab 1\obj\Debug\Lab 1.exe
+D:\NET 1.0.1\bài tập lab\Assignment\Bai tap lab MU 19302\Lab 1\Lab 1\obj\Debug\Lab 1.pdb

@@ -1,0 +1,2 @@
+D:\NET 1.0.1\bài tập lab\Assignment\Bai tap lab MU 19302\Lab 1\lab 1 bai 2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\NET 1.0.1\bài tập lab\Assignment\Bai tap lab MU 19302\Lab 1\lab 1 bai 2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
